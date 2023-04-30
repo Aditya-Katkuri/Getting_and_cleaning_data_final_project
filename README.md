@@ -1,5 +1,5 @@
 # Getting_and_cleaning_data_peer-graded_project
-This repo is made to store all the files required for the evaluation of Peer graded project as a part of the Getting and Cleaning Data Course. The R script, run_analysis.R, does the following:
+This repo is made to store all the files required for the evaluation of Peer graded project as a part of the Getting and Cleaning Data Course. The R script, UCI_Analysis.R, does the following:
 
 1. Download the dataset if it does not already exist in the working directory
 2. Load the activity and feature info
